@@ -1,0 +1,341 @@
+2014-09-26 16:10:44.949 Tester[743:5896] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/43576566-C05A-471B-83B3-DABF58A93F9C/Library/Cookies/Cookies.binarycookies
+2014-09-26 16:10:45.044 Tester[743:5896] Multi-tasking -> Device: YES, App: YES
+2014-09-26 16:10:45.074 Tester[743:5896] Unlimited access to network resources
+2014-09-26 16:10:45.080 Tester[743:5896] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 16:10:45.902 Tester[743:5896] Resetting plugins due to page load.
+2014-09-26 16:10:46.047 Tester[743:5896] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/E51984D8-F31E-48A4-93A0-3B9B170CB315/Tester.app/www/index.html
+2014-09-28 14:50:09.130 Tester[1271:26459] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/C2E6BF1D-C133-4EE7-A277-BB7BD4586167/Library/Cookies/Cookies.binarycookies
+2014-09-28 14:50:09.201 Tester[1271:26459] Multi-tasking -> Device: YES, App: YES
+2014-09-28 14:50:09.224 Tester[1271:26459] Unlimited access to network resources
+2014-09-28 14:50:09.228 Tester[1271:26459] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 14:50:09.627 Tester[1271:26459] Resetting plugins due to page load.
+2014-09-28 14:50:09.733 Tester[1271:26459] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/B58A93B2-1721-4647-92C3-F3A24615832D/Tester.app/www/index.html
+2014-09-28 14:55:02.029 Tester[1466:28773] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/2E922CD3-79B9-4EC7-8BD7-770BF5A21D0E/Library/Cookies/Cookies.binarycookies
+2014-09-28 14:55:02.108 Tester[1466:28773] Multi-tasking -> Device: YES, App: YES
+2014-09-28 14:55:02.114 Tester[1466:28773] Unlimited access to network resources
+2014-09-28 14:55:02.116 Tester[1466:28773] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 14:55:02.293 Tester[1466:28773] Resetting plugins due to page load.
+2014-09-28 14:55:02.355 Tester[1466:28773] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/5ECD953C-2C5F-4621-B567-EA93C4B68339/Tester.app/www/index.html
+2014-09-28 15:02:20.790 Tester[1603:31052] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/ECA37EDD-B8FA-4969-BAF9-CC8401A23ED8/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:02:20.879 Tester[1603:31052] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:02:20.889 Tester[1603:31052] Unlimited access to network resources
+2014-09-28 15:02:20.892 Tester[1603:31052] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:02:21.068 Tester[1603:31052] Resetting plugins due to page load.
+2014-09-28 15:02:21.135 Tester[1603:31052] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/32C3DBF0-9701-4090-9817-3538C04E8E0C/Tester.app/www/index.html
+2014-09-28 15:02:40.675 Tester[1603:31052] Resetting plugins due to page load.
+2014-09-28 15:02:40.688 Tester[1603:31052] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/32C3DBF0-9701-4090-9817-3538C04E8E0C/Tester.app/www/childhood.html
+2014-09-28 15:02:41.989 Tester[1603:31052] Resetting plugins due to page load.
+2014-09-28 15:02:42.001 Tester[1603:31052] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/32C3DBF0-9701-4090-9817-3538C04E8E0C/Tester.app/www/family.html
+2014-09-28 15:02:43.703 Tester[1603:31052] Resetting plugins due to page load.
+2014-09-28 15:02:43.717 Tester[1603:31052] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/32C3DBF0-9701-4090-9817-3538C04E8E0C/Tester.app/www/education.html
+2014-09-28 15:02:45.514 Tester[1603:31052] Resetting plugins due to page load.
+2014-09-28 15:02:45.525 Tester[1603:31052] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/32C3DBF0-9701-4090-9817-3538C04E8E0C/Tester.app/www/contact.html
+2014-09-28 15:06:34.142 Tester[1778:33592] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/1765388A-5A31-40C8-A151-CBF4CA28936B/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:06:34.222 Tester[1778:33592] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:06:34.232 Tester[1778:33592] Unlimited access to network resources
+2014-09-28 15:06:34.235 Tester[1778:33592] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:06:34.429 Tester[1778:33592] Resetting plugins due to page load.
+2014-09-28 15:06:34.478 Tester[1778:33592] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/43069801-3448-4C1D-A232-AFF1EC245539/Tester.app/www/index.html
+2014-09-28 15:06:36.066 Tester[1778:33592] Resetting plugins due to page load.
+2014-09-28 15:06:36.078 Tester[1778:33592] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/43069801-3448-4C1D-A232-AFF1EC245539/Tester.app/www/contact.html
+2014-09-28 15:09:42.242 Tester[1778:33592] Resetting plugins due to page load.
+2014-09-28 15:09:42.255 Tester[1778:33592] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/43069801-3448-4C1D-A232-AFF1EC245539/Tester.app/www/index.html
+2014-09-28 15:26:49.952 Tester[2013:40646] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/24158580-8327-441B-A42C-F68E2F830A7F/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:26:50.032 Tester[2013:40646] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:26:50.038 Tester[2013:40646] Unlimited access to network resources
+2014-09-28 15:26:50.041 Tester[2013:40646] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:26:50.238 Tester[2013:40646] Resetting plugins due to page load.
+2014-09-28 15:26:50.283 Tester[2013:40646] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/3F662BAF-612C-432E-BD87-6C6B78D7ADBD/Tester.app/www/index.html
+2014-09-28 15:29:21.483 Tester[2150:41842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/F0DECAD4-E3EA-4163-877B-3CF42914F987/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:29:21.567 Tester[2150:41842] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:29:21.576 Tester[2150:41842] Unlimited access to network resources
+2014-09-28 15:29:21.578 Tester[2150:41842] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:29:21.760 Tester[2150:41842] Resetting plugins due to page load.
+2014-09-28 15:29:21.806 Tester[2150:41842] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/18C69AAE-D07B-4F99-BC34-D79BAD1B24C5/Tester.app/www/index.html
+2014-09-28 15:35:10.293 Tester[2307:44080] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/BDE24C91-F333-4669-AC45-162EFFFB27FA/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:35:10.408 Tester[2307:44080] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:35:10.416 Tester[2307:44080] Unlimited access to network resources
+2014-09-28 15:35:10.419 Tester[2307:44080] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:35:10.587 Tester[2307:44080] Resetting plugins due to page load.
+2014-09-28 15:35:10.642 Tester[2307:44080] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/61DAF4B2-4AFC-4930-8472-B12C32FADA76/Tester.app/www/index.html
+2014-09-28 15:39:57.652 Tester[2454:45895] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/64528D4A-4116-4306-B179-B4E810A9EFFE/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:39:57.732 Tester[2454:45895] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:39:57.741 Tester[2454:45895] Unlimited access to network resources
+2014-09-28 15:39:57.744 Tester[2454:45895] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:39:57.924 Tester[2454:45895] Resetting plugins due to page load.
+2014-09-28 15:39:57.971 Tester[2454:45895] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/924EBD35-318D-467E-8DF0-E3801023F5E5/Tester.app/www/index.html
+2014-09-28 15:40:47.068 Tester[2583:46728] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/8B61EDC2-5314-4999-8338-0F58E1256F01/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:40:47.150 Tester[2583:46728] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:40:47.159 Tester[2583:46728] Unlimited access to network resources
+2014-09-28 15:40:47.162 Tester[2583:46728] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:40:47.338 Tester[2583:46728] Resetting plugins due to page load.
+2014-09-28 15:40:47.382 Tester[2583:46728] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/EA55180A-5F51-4427-9E02-EAF308FE3A12/Tester.app/www/index.html
+2014-09-28 15:47:51.724 Tester[2704:49068] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/C2757B1C-1F80-43F8-A737-8ABE11AE018A/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:47:51.835 Tester[2704:49068] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:47:51.840 Tester[2704:49068] Unlimited access to network resources
+2014-09-28 15:47:51.842 Tester[2704:49068] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:47:52.005 Tester[2704:49068] Resetting plugins due to page load.
+2014-09-28 15:47:52.046 Tester[2704:49068] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/5C613488-665E-4AB7-9A2E-F5DC23B1B2DD/Tester.app/www/index.html
+2014-09-28 15:48:26.149 Tester[2824:49778] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/C02B6B65-7B7E-4D93-8AB0-E18FE40AC445/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:48:26.238 Tester[2824:49778] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:48:26.243 Tester[2824:49778] Unlimited access to network resources
+2014-09-28 15:48:26.246 Tester[2824:49778] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:48:26.428 Tester[2824:49778] Resetting plugins due to page load.
+2014-09-28 15:48:26.478 Tester[2824:49778] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/C519A598-9B05-4D3A-80E6-B890F4FEFD41/Tester.app/www/index.html
+2014-09-28 15:50:55.143 Tester[2962:51044] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/8D34F206-FEAF-46F8-A981-128B92C7C91A/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:50:55.216 Tester[2962:51044] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:50:55.221 Tester[2962:51044] Unlimited access to network resources
+2014-09-28 15:50:55.224 Tester[2962:51044] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:50:55.383 Tester[2962:51044] Resetting plugins due to page load.
+2014-09-28 15:50:55.428 Tester[2962:51044] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/C91A929D-283D-4194-BE01-DACDAA562BC9/Tester.app/www/index.html
+2014-09-28 15:53:34.846 Tester[3102:52384] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/D9CF9D4F-ECF2-4D21-826A-776E07E59D59/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:53:34.950 Tester[3102:52384] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:53:34.959 Tester[3102:52384] Unlimited access to network resources
+2014-09-28 15:53:34.962 Tester[3102:52384] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:53:35.138 Tester[3102:52384] Resetting plugins due to page load.
+2014-09-28 15:53:35.183 Tester[3102:52384] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/113949EC-B23E-4822-9EDC-80A79A71E1EF/Tester.app/www/index.html
+2014-09-28 15:57:10.258 Tester[3243:53952] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/B0641B5A-FFCE-46E5-B867-6D6269598FBD/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:57:10.346 Tester[3243:53952] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:57:10.355 Tester[3243:53952] Unlimited access to network resources
+2014-09-28 15:57:10.357 Tester[3243:53952] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:57:10.569 Tester[3243:53952] Resetting plugins due to page load.
+2014-09-28 15:57:10.615 Tester[3243:53952] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/16BA2156-0067-4926-A372-BBA0FF669789/Tester.app/www/index.html
+2014-09-28 15:58:32.594 Tester[3373:54925] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/74E26F5D-FFF1-4787-98B8-3598E6C7E7AE/Library/Cookies/Cookies.binarycookies
+2014-09-28 15:58:32.680 Tester[3373:54925] Multi-tasking -> Device: YES, App: YES
+2014-09-28 15:58:32.689 Tester[3373:54925] Unlimited access to network resources
+2014-09-28 15:58:32.692 Tester[3373:54925] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 15:58:32.880 Tester[3373:54925] Resetting plugins due to page load.
+2014-09-28 15:58:32.931 Tester[3373:54925] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/07BAC39A-7E09-42C4-9BAA-9A87E92117F3/Tester.app/www/index.html
+2014-09-28 16:02:47.063 Tester[3520:56716] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/F6574B98-5CA1-4FD6-B370-9EBE8E1C967A/Library/Cookies/Cookies.binarycookies
+2014-09-28 16:02:47.148 Tester[3520:56716] Multi-tasking -> Device: YES, App: YES
+2014-09-28 16:02:47.157 Tester[3520:56716] Unlimited access to network resources
+2014-09-28 16:02:47.160 Tester[3520:56716] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 16:02:47.315 Tester[3520:56716] Resetting plugins due to page load.
+2014-09-28 16:03:46.362 Tester[3646:57783] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/A49E65DF-2FEB-444E-BD92-FB3E7FEE7F59/Library/Cookies/Cookies.binarycookies
+2014-09-28 16:03:46.447 Tester[3646:57783] Multi-tasking -> Device: YES, App: YES
+2014-09-28 16:03:46.456 Tester[3646:57783] Unlimited access to network resources
+2014-09-28 16:03:46.459 Tester[3646:57783] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 16:03:46.639 Tester[3646:57783] Resetting plugins due to page load.
+2014-09-28 16:03:46.687 Tester[3646:57783] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/FD6354C8-EB46-417E-BED9-BF3CE9E8B43B/Tester.app/www/index.html
+2014-09-28 16:06:40.326 Tester[3646:57783] Resetting plugins due to page load.
+2014-09-28 16:06:40.339 Tester[3646:57783] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/FD6354C8-EB46-417E-BED9-BF3CE9E8B43B/Tester.app/www/family.html
+2014-09-28 16:06:42.022 Tester[3646:57783] Resetting plugins due to page load.
+2014-09-28 16:06:42.035 Tester[3646:57783] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/FD6354C8-EB46-417E-BED9-BF3CE9E8B43B/Tester.app/www/index.html
+2014-09-28 16:07:35.783 Tester[3790:59376] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/434C3C84-5BAD-4F62-86B6-927B2BAC0C71/Library/Cookies/Cookies.binarycookies
+2014-09-28 16:07:35.878 Tester[3790:59376] Multi-tasking -> Device: YES, App: YES
+2014-09-28 16:07:35.884 Tester[3790:59376] Unlimited access to network resources
+2014-09-28 16:07:35.886 Tester[3790:59376] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 16:07:36.086 Tester[3790:59376] Resetting plugins due to page load.
+2014-09-28 16:07:36.133 Tester[3790:59376] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/EA0550CD-738E-4B09-807C-5508BB5526D4/Tester.app/www/index.html
+2014-09-28 16:07:54.484 Tester[3790:59376] Resetting plugins due to page load.
+2014-09-28 16:07:54.495 Tester[3790:59376] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/EA0550CD-738E-4B09-807C-5508BB5526D4/Tester.app/www/index.html
+2014-09-28 16:09:03.350 Tester[3923:60354] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/8BD2512F-CEE7-403F-A35C-6E9E22668AFC/Library/Cookies/Cookies.binarycookies
+2014-09-28 16:09:03.419 Tester[3923:60354] Multi-tasking -> Device: YES, App: YES
+2014-09-28 16:09:03.424 Tester[3923:60354] Unlimited access to network resources
+2014-09-28 16:09:03.426 Tester[3923:60354] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 16:09:03.596 Tester[3923:60354] Resetting plugins due to page load.
+2014-09-28 16:09:03.646 Tester[3923:60354] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/6CD5C79E-089C-4163-8949-AE3C33535A14/Tester.app/www/index.html
+2014-09-28 16:10:54.462 Tester[3923:60354] Resetting plugins due to page load.
+2014-09-28 16:10:54.474 Tester[3923:60354] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/6CD5C79E-089C-4163-8949-AE3C33535A14/Tester.app/www/childhood.html
+2014-09-28 16:11:17.764 Tester[3923:60354] Resetting plugins due to page load.
+2014-09-28 16:11:17.777 Tester[3923:60354] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/6CD5C79E-089C-4163-8949-AE3C33535A14/Tester.app/www/contact.html
+2014-09-28 16:20:03.604 Tester[4103:63906] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/5107639B-A519-457E-8C69-102DED6292E2/Library/Cookies/Cookies.binarycookies
+2014-09-28 16:20:03.688 Tester[4103:63906] Multi-tasking -> Device: YES, App: YES
+2014-09-28 16:20:03.695 Tester[4103:63906] Unlimited access to network resources
+2014-09-28 16:20:03.697 Tester[4103:63906] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 16:20:03.894 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 16:20:03.942 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/index.html
+2014-09-28 16:20:13.562 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 16:20:13.582 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/contact.html
+2014-09-28 17:35:36.953 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:36.967 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/education.html
+2014-09-28 17:35:40.152 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:40.164 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/contact.html
+2014-09-28 17:35:43.160 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:43.171 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/family.html
+2014-09-28 17:35:44.989 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:45.001 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/childhood.html
+2014-09-28 17:35:45.919 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:45.929 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/family.html
+2014-09-28 17:35:46.992 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:47.001 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/education.html
+2014-09-28 17:35:48.970 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:48.984 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/contact.html
+2014-09-28 17:35:54.880 Tester[4103:63906] Resetting plugins due to page load.
+2014-09-28 17:35:54.892 Tester[4103:63906] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/2DD613D9-8425-4A00-9E32-729BB6318561/Tester.app/www/contact.html
+2014-09-28 17:40:35.162 Tester[4351:69108] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/66882E5E-5718-46B6-BBF7-479025A80387/Library/Cookies/Cookies.binarycookies
+2014-09-28 17:40:35.242 Tester[4351:69108] Multi-tasking -> Device: YES, App: YES
+2014-09-28 17:40:35.251 Tester[4351:69108] Unlimited access to network resources
+2014-09-28 17:40:35.254 Tester[4351:69108] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 17:40:35.414 Tester[4351:69108] Resetting plugins due to page load.
+2014-09-28 17:40:35.460 Tester[4351:69108] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/4537ACCC-9F6D-4147-9C0A-E4051CD35379/Tester.app/www/index.html
+2014-09-28 17:40:39.996 Tester[4351:69108] Resetting plugins due to page load.
+2014-09-28 17:40:40.010 Tester[4351:69108] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/4537ACCC-9F6D-4147-9C0A-E4051CD35379/Tester.app/www/childhood.html
+2014-09-28 17:42:43.433 Tester[4491:70508] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/91562FE2-CACC-44E9-833D-5BFA9DAC5943/Library/Cookies/Cookies.binarycookies
+2014-09-28 17:42:43.512 Tester[4491:70508] Multi-tasking -> Device: YES, App: YES
+2014-09-28 17:42:43.521 Tester[4491:70508] Unlimited access to network resources
+2014-09-28 17:42:43.523 Tester[4491:70508] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-28 17:42:43.707 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 17:42:43.752 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/index.html
+2014-09-28 18:30:36.645 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:30:36.657 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/education.html
+2014-09-28 18:30:38.241 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:30:38.262 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/family.html
+2014-09-28 18:30:41.483 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:30:41.505 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/contact.html
+2014-09-28 18:30:45.657 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:30:45.668 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/family.html
+2014-09-28 18:30:49.812 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:30:49.823 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/education.html
+2014-09-28 18:30:56.529 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:30:56.543 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/contact.html
+2014-09-28 18:31:18.289 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:31:18.301 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/index.html
+2014-09-28 18:31:22.906 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 18:31:22.927 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/childhood.html
+2014-09-28 21:23:56.144 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 21:23:56.156 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/education.html
+2014-09-28 21:24:01.432 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 21:24:01.445 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/index.html
+2014-09-28 21:24:08.411 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 21:24:08.423 Tester[4491:70508] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/195CCEF2-24DD-43BB-BBE2-638B76F751CC/Tester.app/www/contact.html
+2014-09-28 21:24:16.756 Tester[4491:70508] Resetting plugins due to page load.
+2014-09-28 21:24:17.736 Tester[4491:70508] Finished load of: https://github.com/bradyllewis/BradyWorld
